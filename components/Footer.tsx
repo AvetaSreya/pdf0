@@ -63,7 +63,7 @@ export default function Footer() {
           </p>
           <span className="hidden sm:block text-slate-300 text-lg">•</span>
           <p className="text-base sm:text-lg font-semibold text-slate-500">
-            Made with ❤️ by <a href="https://x.com/kanavtwt" target="_blank" rel="noopener noreferrer" className="underline decoration-dotted underline-offset-4 decoration-2 decoration-slate-300 hover:text-blue-600 hover:decoration-blue-600 transition-all">Kanav</a>
+            Made with ❤️ by <a href="https://x.com/sreyatwt" target="_blank" rel="noopener noreferrer" className="underline decoration-dotted underline-offset-4 decoration-2 decoration-slate-300 hover:text-blue-600 hover:decoration-blue-600 transition-all">Sreya</a>
           </p>
         </div>
       </div>
